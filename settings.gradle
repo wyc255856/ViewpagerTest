@@ -1,0 +1,2 @@
+include ':app', ':zoomview', ':test'
+rootProject.name='ViewpagerDemo'
